@@ -27,11 +27,11 @@ EXCEPTIONS = {"13/02/2023",
 
 
 def blocking_alert(message="message"):
+    print(message)
     winsound.PlaySound('sound.wav', winsound.SND_FILENAME)
 
     WS_EX_TOPMOST = 0x40000
     windowTitle = "Vite mon Passeport!"
-    print(message)
     # display a message box; execution will stop here until user acknowledges
     ctypes.windll.user32.MessageBoxExW(None, message, windowTitle, WS_EX_TOPMOST)
 
