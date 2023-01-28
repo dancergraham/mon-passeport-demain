@@ -13,7 +13,8 @@ raffraicher le browser constamment ou lancer ce script, qui va chercher toutes l
 > Heureusement que j'avais déja tout le necessaire (photos, pré-demande, ...)
 
 Valeurs codés en dure pour trouver un rendez-vous dans la Mairie d'Orvault
-premiere moitiée 2023.
+premiere moitiée 2023.  Il devrait pouvoir marcher avec un peu de travail pour 
+Nort sur Erdre, Chantonnay, Pelisanne et Saint Malo ...
 
 Me contacter pour d'autres dates / mode d'emploi ou se lancer dans le code . Hack hack hack.
 
